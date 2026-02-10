@@ -11,21 +11,21 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.6.2",
-    "@radix-ui/react-dialog": "^1.0.5",
-    "@radix-ui/react-popover": "^1.0.7",
-    "@radix-ui/react-tooltip": "^1.0.7",
+    "@clerk/nextjs": "^5.7.5",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-popover": "^1.1.15",
+    "@radix-ui/react-tooltip": "^1.2.8",
     "@types/node": "18.11.18",
     "@types/react": "18.2.24",
     "@types/react-dom": "18.2.8",
     "@vercel/analytics": "^0.1.11",
     "@vercel/og": "^0.0.26",
     "airtable": "^0.12.2",
-    "classnames": "^2.3.2",
-    "clsx": "^2.0.0",
+    "classnames": "^2.5.1",
+    "clsx": "^2.1.1",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.1",
-    "focus-trap-react": "^10.2.2",
+    "focus-trap-react": "^10.3.1",
     "framer-motion": "^8.5.5",
     "jspdf": "^4.1.0",
     "lucide-react": "0.105.0-alpha.4",
@@ -43,17 +43,17 @@
     "xlsx-js-style": "^1.2.0"
   },
   "devDependencies": {
-    "@tailwindcss/forms": "^0.5.6",
+    "@tailwindcss/forms": "^0.5.11",
     "@tailwindcss/line-clamp": "^0.4.4",
-    "@tailwindcss/typography": "^0.5.10",
-    "@types/ms": "^0.7.32",
+    "@tailwindcss/typography": "^0.5.19",
+    "@types/ms": "^0.7.34",
     "@types/xlsx": "^0.0.35",
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^10.4.24",
     "concurrently": "^7.6.0",
-    "postcss": "^8.4.31",
+    "postcss": "^8.5.6",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.2.8",
-    "tailwindcss": "^3.3.3"
+    "tailwindcss": "^3.4.19"
   },
   "packageManager": "pnpm@9.3.0+sha512.ee7b93e0c2bd11409c6424f92b866f31d3ea1bef5fbe47d3c7500cdc3c9668833d2e55681ad66df5b640c61fa9dc25d546efa54d76d7f8bf54b13614ac293631"
 }
